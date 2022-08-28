@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
+  "name": "supernova",
   "version": "2.1.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.ts",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Auxin",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "",
+  "repository": "github:eritislami/supernova",
+  "bugs": "",
   "engines": {
     "node": ">=16.11.0"
   },
